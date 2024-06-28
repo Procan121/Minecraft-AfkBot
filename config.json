@@ -1,6 +1,6 @@
 {
-	"ip":"adns.aternos.me",
-	"port": 28017,
+	"ip":"49.12.168.17:28807",
+	"port": 28807,
 	"name": "adns",
 	"auto-night-skip":"false"
 }
